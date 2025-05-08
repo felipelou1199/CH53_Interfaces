@@ -1,5 +1,6 @@
 #Interfaces
-**Ejercicio de interfaces con Java**
+
+## Ejercicio de interfaces con Java
 
 Este ejercicio demuestra cómo las interfaces en Java permiten que un objeto tenga más de una forma, facilitando la reutilización del código.
 
